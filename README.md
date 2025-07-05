@@ -1,4 +1,4 @@
-# Automatic Car Parking System 
+# Microcontroller Based Automatic Car Parking System 
 
 This Arduino-based project is designed to manage a small-scale automatic car parking system using IR sensors, a servo motor, and an LCD display. The system detects car presence in four parking slots, monitors entry and exit points, and automatically opens/closes the gate based on availability.
 
